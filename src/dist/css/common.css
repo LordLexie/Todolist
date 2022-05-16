@@ -1,0 +1,29 @@
+.list-items{
+    list-style-type:none;
+    border:1px solid gray;
+    padding:5px;
+    margin:3px;
+    border-radius:5px;
+}
+
+.list-items .fa-trash{
+color: red;
+float:right;
+margin:5px;
+}
+
+.list-items .fa-edit{
+color: green;
+float:right;
+margin:5px;
+}
+
+.list-items .fa-check-circle{
+color: green;
+float:right;
+margin:5px;
+}
+
+.complete{
+    text-decoration:line-through;
+}
